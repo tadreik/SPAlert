@@ -33,6 +33,7 @@ import UIKit
  
  Recomended call `SPAlert` and choose style func.
  */
+@MainActor
 final public class SPAlertView: UIView {
     
     // MARK: - Views

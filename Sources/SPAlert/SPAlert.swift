@@ -25,6 +25,7 @@ import UIKit
  Acess level. Here you get ready-use methods.
  Recomended use it.
  */
+@MainActor
 public enum SPAlert {
     
     /**
